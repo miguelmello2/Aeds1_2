@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1724112346 source:c:\users\miguel\desktop\aeds1_2\lista_2\calcfisica\main.c
+	<stdio.h>
+	<stdlib.h>
+
